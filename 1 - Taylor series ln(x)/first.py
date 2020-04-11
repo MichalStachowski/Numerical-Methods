@@ -5,6 +5,7 @@ from tabulate import tabulate
 
 def expand(n, x):
     """
+    ln(x) = 2 * [((x-1)/(x+1)) + ((x-1)^3 / 3(x+1)^3) + ((x-1)^5 / 5(x+1)^5) + ...]
     :param n: n-th expansion in the power series
     :param x: at the given point we determine the value
     :return:
