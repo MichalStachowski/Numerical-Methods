@@ -1,3 +1,4 @@
+### The key of the task is to notice the impact of the step on the accuracy of numerical operations  
 For the function ln(x), calculate the approximation of the derivative at x = 0.5 according to the following formula:  
 ![equation](https://latex.codecogs.com/gif.latex?%7Bf%7D%27%5Cleft%20%28%20x%20%5Cright%20%29%20%3D%20%5Cfrac%7Bf%5Cleft%20%28%20x%20&plus;%20h%20%5Cright%20%29%20-%20f%5Cleft%20%28%20x%20-%20h%20%5Cright%20%29%7D%7B2h%7D)
   
